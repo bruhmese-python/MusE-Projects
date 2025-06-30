@@ -1,0 +1,13 @@
+<part uuid="{e7946576-8d68-4eb6-88bc-2d0d6f4d1b36}" trackUuid="{dc2119a7-d749-4cf5-b165-7cfe6bcdb59c}" trackType="0">
+  <name>E</name>
+  <viewState xscroll="6135" yscroll="468" xscale="-10" yscale="2">
+    <ctrlViewState num="262146" />
+    </viewState>
+  <poslen tick="6144" len="1536" />
+  <selected>1</selected>
+  <color>0</color>
+  <event tick="6144" len="1537" a="40" b="100" c="100" />
+  <event tick="6144" len="1537" a="52" b="100" c="100" />
+  <event tick="6144" len="1537" a="56" b="100" c="100" />
+  <event tick="6144" len="1537" a="59" b="100" c="100" />
+  </part>
