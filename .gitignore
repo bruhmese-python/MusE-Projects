@@ -1,0 +1,6 @@
+# Ignore test directory
+/test/
+
+# Ignore batshadow directory
+/batshadow/
+
